@@ -43,7 +43,7 @@ I specialize in training aspiring DevOps engineers and building production-grade
 </p>
 
 ---
-
+<!--
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -51,6 +51,7 @@ I specialize in training aspiring DevOps engineers and building production-grade
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prerankumar&theme=radical" />
 </p>
+-->
 
 ---
 

@@ -1,95 +1,160 @@
 # 👋 Hello, I'm Prerankumar
 
-# 🚀 DevOps Engineer | Cloud & Automation Enthusiast
+## 🚀 DevOps Engineer | Cloud & Infrastructure Automation
 
-Passionate DevOps Engineer with hands-on experience in building CI/CD pipelines, cloud infrastructure automation, containerized deployments, and Infrastructure as Code (IaC). Skilled in implementing modern DevOps practices using industry-standard tools and cloud technologies.
+Passionate DevOps Engineer with hands-on experience in designing CI/CD pipelines, automating cloud infrastructure, container orchestration, and deploying scalable applications using modern DevOps practices.
 
-Focused on automation, scalability, deployment reliability, and cloud-native solutions across modern DevOps environments.
-
----
-
-## 💼 Professional Summary
-
-- Hands-on experience with CI/CD pipeline implementation
-- Skilled in cloud infrastructure provisioning and automation
-- Experience with Docker containerization and Kubernetes orchestration
-- Strong understanding of Infrastructure as Code (IaC)
-- Experience in Linux administration and Shell scripting
-- Familiar with automation and deployment workflows
-- Passionate about cloud computing and DevOps best practices
+Experienced in building production-style deployment workflows using AWS, Jenkins, Docker, Kubernetes, Terraform, Linux, and automation tools. Focused on reliability, scalability, automation, and infrastructure optimization.
 
 ---
 
-# 🚀 Skills & Expertise
+# 💼 Professional Experience
 
-- ☁️ Cloud Platforms: AWS, Azure  
-- 🛠️ CI/CD & Build Tools: Jenkins, Maven, SonarQube, Nexus  
-- 🐳 Containers & Orchestration: Docker, Kubernetes  
-- ⚙️ Infrastructure as Code: Terraform, Ansible  
-- 🖥️ Web Servers: Tomcat, Nginx  
-- 🐧 Operating Systems & Scripting: Linux, Shell Scripting  
-- 🔁 Automation, Monitoring & DevOps Practices
-
----
-
-# 📂 Industry-Level DevOps Projects
-
-## 🔹 CI/CD Pipeline using Jenkins, Maven & Tomcat
-- Automated build and deployment workflows using Jenkins
-- Integrated GitHub repositories with CI/CD pipelines
-- Deployed Java applications on Apache Tomcat servers
-- Implemented continuous integration practices
-
----
-
-## 🔹 Dockerized Multi-Container Application
-- Containerized applications using Docker
-- Created custom Docker images and managed containers
-- Worked with Docker networking and persistent storage
-- Implemented multi-container deployment workflows
-
----
-
-## 🔹 Kubernetes Application Deployment
-- Managed container orchestration using Kubernetes
-- Worked with Pods, Deployments, Services, ConfigMaps, and Secrets
-- Implemented scaling and rolling update strategies
-- Performed troubleshooting using kubectl commands
-
----
-
-## 🔹 AWS Cloud Infrastructure Deployment
-- Provisioned and managed AWS resources
-- Configured IAM users, roles, and permissions
-- Worked with EC2, S3, VPC, Lambda, and CloudWatch
-- Implemented secure cloud infrastructure setups
-
----
-
-## 🔹 Infrastructure Automation using Terraform
+- Hands-on experience with CI/CD pipeline implementation and automation
+- Experience in containerized application deployments using Docker
+- Worked on Kubernetes orchestration and application scaling
 - Automated infrastructure provisioning using Terraform
-- Created reusable Infrastructure as Code templates
-- Managed AWS resources through Terraform configurations
+- Experience with Linux administration and Shell scripting
+- Managed cloud resources and deployment workflows in AWS
+- Experience integrating GitHub repositories with Jenkins pipelines
+- Familiar with monitoring, deployment strategies, and DevOps best practices
 
 ---
 
-## 🔹 Configuration Management using Ansible
-- Automated server configuration and deployments
-- Managed Ansible playbooks and inventories
-- Performed remote configuration management tasks
+# ⚙️ Tech Stack
+
+### ☁️ Cloud Platforms
+- AWS
+- Azure
+
+### 🔄 CI/CD & Build Tools
+- Jenkins
+- Maven
+- SonarQube
+- Nexus
+
+### 🐳 Containers & Orchestration
+- Docker
+- Kubernetes
+
+### 🏗️ Infrastructure as Code
+- Terraform
+- Ansible
+
+### 🖥️ Servers & Operating Systems
+- Linux
+- Nginx
+- Apache Tomcat
+
+### 💻 Scripting & Automation
+- Shell Scripting
+- Git
+- GitHub
 
 ---
 
-# 🔄 CI/CD & Cloud Experience
+# 🚀 Real-Time DevOps Projects
 
-- Continuous Integration & Continuous Deployment (CI/CD)
-- Automated build and deployment pipelines
-- GitHub integration with Jenkins workflows
-- Docker-based application deployments
-- Kubernetes orchestration and container scaling
-- Cloud infrastructure management in AWS
-- Infrastructure provisioning using Terraform
-- Linux administration and shell automation
+## 🔹 End-to-End CI/CD Pipeline for Java Application
+
+### Tools Used
+GitHub • Jenkins • Maven • SonarQube • Nexus • Tomcat
+
+### Project Overview
+Designed and implemented a complete CI/CD pipeline for a Java-based application using Jenkins automation.
+
+### Responsibilities
+- Integrated GitHub repositories with Jenkins pipelines
+- Automated code build and deployment workflows
+- Performed code quality checks using SonarQube
+- Managed artifact storage using Nexus Repository
+- Deployed applications to Apache Tomcat servers
+- Implemented continuous integration and deployment processes
+
+---
+
+## 🔹 Dockerized Multi-Container Application Deployment
+
+### Tools Used
+Docker • Docker Compose • Linux
+
+### Project Overview
+Containerized applications and managed multi-container deployments for consistent environments across development and deployment stages.
+
+### Responsibilities
+- Created custom Docker images
+- Managed Docker volumes and networking
+- Worked with Docker Compose for multi-container applications
+- Implemented container lifecycle management
+- Performed troubleshooting and container monitoring
+
+---
+
+## 🔹 Kubernetes-Based Application Deployment
+
+### Tools Used
+Kubernetes • Docker • YAML • Linux
+
+### Project Overview
+Managed container orchestration and deployment automation using Kubernetes.
+
+### Responsibilities
+- Created and managed Pods, ReplicaSets, Deployments, and Services
+- Worked with ConfigMaps and Secrets
+- Implemented rolling updates and scaling strategies
+- Managed application exposure using Kubernetes Services
+- Performed troubleshooting using kubectl commands
+- Worked on namespace and resource management
+
+---
+
+## 🔹 AWS Infrastructure Automation Project
+
+### Tools Used
+AWS • Terraform • Linux
+
+### Project Overview
+Provisioned and managed cloud infrastructure resources using Infrastructure as Code principles.
+
+### Responsibilities
+- Provisioned EC2 instances and networking resources
+- Configured IAM users, roles, and permissions
+- Managed S3 storage and VPC configurations
+- Automated infrastructure provisioning using Terraform
+- Created reusable Terraform modules and templates
+- Implemented secure infrastructure deployment practices
+
+---
+
+## 🔹 Configuration Management & Automation
+
+### Tools Used
+Ansible • Linux • Shell Scripting
+
+### Project Overview
+Automated server configuration and deployment workflows using Ansible.
+
+### Responsibilities
+- Developed Ansible playbooks for automation
+- Managed inventories and remote configurations
+- Automated package installations and server setup
+- Performed configuration management tasks
+- Integrated automation workflows with deployment pipelines
+
+---
+
+# 🔥 Core DevOps Skills
+
+- CI/CD Pipeline Automation
+- Infrastructure as Code (IaC)
+- Cloud Infrastructure Management
+- Docker Containerization
+- Kubernetes Orchestration
+- Linux Administration
+- Deployment Automation
+- Infrastructure Provisioning
+- Monitoring & Troubleshooting
+- GitOps & Version Control
 
 ---
 
@@ -111,23 +176,14 @@ Focused on automation, scalability, deployment reliability, and cloud-native sol
 
 ---
 
-# 📈 GitHub Stats
+# 📌 Current Focus
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Preran-48&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Preran-48&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Preran-48&theme=tokyonight)
-
----
-
-# 🔭 Current Focus
-
-- CI/CD Pipeline Automation
 - Kubernetes & Container Orchestration
+- CI/CD Pipeline Optimization
 - Cloud Infrastructure Automation
-- Infrastructure as Code (IaC)
-- DevOps Best Practices & Automation
+- Infrastructure as Code (Terraform)
+- DevOps Automation & Deployment Strategies
+- Scalable Application Deployments
 
 ---
 
